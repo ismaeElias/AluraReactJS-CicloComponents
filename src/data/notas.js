@@ -17,4 +17,5 @@ class Nota{
         this.texto = texto;
         this.categoria = categoria;
     }
+    
 }
